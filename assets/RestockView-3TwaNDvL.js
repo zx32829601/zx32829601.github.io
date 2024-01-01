@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,a as e}from"./index-5Cbz97fP.js";const c={},n={class:"restock-page"},_=e("h1",null,"Restock",-1),a=e("p",null,"This is the restock page",-1),r=[_,a];function i(l,d){return t(),o("main",n,r)}const p=s(c,[["render",i]]);export{p as default};
