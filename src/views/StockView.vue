@@ -7,7 +7,7 @@
     <h1>Stock</h1>
     <p>This is the Stock page</p>
   <div class="card" style="width: 13rem;">
-  <img src="..." class="card-img-top" alt="...">
+  <img src="../assets/logo.png" class="card-img-top" alt="chicken">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text"> card's content.</p>
